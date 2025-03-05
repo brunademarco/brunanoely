@@ -2,8 +2,6 @@
 
 Sou estudante de ciência da computação na PUC Minas, explorando o desenvolvimento de software e buscando aprender novas tecnologias.
 
-🔭 Atualmente trabalhando no SALAD DAYS, projeto pessoal de um website voltado para receitas de saladas.
-
 ---
 
 ## 🚀 Minhas Skills
