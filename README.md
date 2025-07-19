@@ -21,9 +21,3 @@ Sou estudante de ciência da computação na PUC Minas, explorando o desenvolvim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunademarco&show_icons=true&theme=radical)
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunademarco/brunademarco/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunademarco/brunademarco/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/brunademarco/brunademarco/output/pacman-contribution-graph-dark.svg" alt="Gráfico de contribuições estilo Pac-Man" />
-</picture>
